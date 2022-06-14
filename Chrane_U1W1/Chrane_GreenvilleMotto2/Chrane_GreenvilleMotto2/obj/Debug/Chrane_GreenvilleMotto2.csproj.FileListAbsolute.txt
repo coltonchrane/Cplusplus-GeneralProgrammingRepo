@@ -1,0 +1,7 @@
+C:\Users\colto\Desktop\C++\Chrane_U1W1\Chrane_GreenvilleMotto2\Chrane_GreenvilleMotto2\obj\Debug\Chrane_GreenvilleMotto2.csprojAssemblyReference.cache
+C:\Users\colto\Desktop\C++\Chrane_U1W1\Chrane_GreenvilleMotto2\Chrane_GreenvilleMotto2\obj\Debug\Chrane_GreenvilleMotto2.csproj.CoreCompileInputs.cache
+C:\Users\colto\Desktop\C++\Chrane_U1W1\Chrane_GreenvilleMotto2\Chrane_GreenvilleMotto2\bin\Debug\Chrane_GreenvilleMotto2.exe.config
+C:\Users\colto\Desktop\C++\Chrane_U1W1\Chrane_GreenvilleMotto2\Chrane_GreenvilleMotto2\bin\Debug\Chrane_GreenvilleMotto2.exe
+C:\Users\colto\Desktop\C++\Chrane_U1W1\Chrane_GreenvilleMotto2\Chrane_GreenvilleMotto2\bin\Debug\Chrane_GreenvilleMotto2.pdb
+C:\Users\colto\Desktop\C++\Chrane_U1W1\Chrane_GreenvilleMotto2\Chrane_GreenvilleMotto2\obj\Debug\Chrane_GreenvilleMotto2.exe
+C:\Users\colto\Desktop\C++\Chrane_U1W1\Chrane_GreenvilleMotto2\Chrane_GreenvilleMotto2\obj\Debug\Chrane_GreenvilleMotto2.pdb
